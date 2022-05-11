@@ -52,8 +52,8 @@
       --add-opens com.azure.http.netty/com.azure.core.http.netty.implementation=ALL-UNNAMED
     </javaModulesSurefireArgLine>
     <skipNewCodesnippetTooling>false</skipNewCodesnippetTooling>
-    <javadocDoclet></javadocDoclet>
-    <javadocDocletOptions></javadocDocletOptions>
+    <javadocDoclet/>
+    <javadocDocletOptions/>
   </properties>
 
   <developers>
@@ -117,7 +117,7 @@
     <dependency>
       <groupId>io.projectreactor.netty</groupId>
       <artifactId>reactor-netty-http</artifactId>
-      <version>1.0.11</version> <!-- {x-version-update;io.projectreactor.netty:reactor-netty-http;external_dependency} -->
+      <version>1.0.19</version> <!-- {x-version-update;io.projectreactor.netty:reactor-netty-http;external_dependency} -->
     </dependency>
 
     <!-- test dependencies on azure-core, because we want to run tests inherited from this module using Netty -->
