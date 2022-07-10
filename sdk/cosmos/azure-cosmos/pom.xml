@@ -200,7 +200,7 @@ Licensed under the MIT License.
     <dependency>
       <groupId>io.dropwizard.metrics</groupId>
       <artifactId>metrics-core</artifactId>
-      <version>4.1.0</version> <!-- {x-version-update;cosmos_io.dropwizard.metrics:metrics-core;external_dependency} -->
+      <version>4.2.4</version> <!-- {x-version-update;cosmos_io.dropwizard.metrics:metrics-core;external_dependency} -->
     </dependency>
 
     <dependency>
