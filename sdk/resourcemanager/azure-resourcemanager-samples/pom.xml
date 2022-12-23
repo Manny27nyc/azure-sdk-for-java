@@ -67,7 +67,7 @@
     <dependency>
       <groupId>commons-net</groupId>
       <artifactId>commons-net</artifactId>
-      <version>3.6</version> <!-- {x-version-update;commons-net:commons-net;external_dependency} -->
+      <version>3.9.0</version> <!-- {x-version-update;commons-net:commons-net;external_dependency} -->
     </dependency>
     <!-- Important!!! jgit has gzip error above 4.5 with app services -->
     <dependency>
