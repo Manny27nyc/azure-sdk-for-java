@@ -96,7 +96,7 @@
     <dependency>
       <groupId>net.minidev</groupId>
       <artifactId>json-smart</artifactId>
-      <version>2.4.7</version> <!-- {x-version-update;net.minidev:json-smart;external_dependency} -->
+      <version>2.4.9</version> <!-- {x-version-update;net.minidev:json-smart;external_dependency} -->
     </dependency>
   </dependencies>
 
