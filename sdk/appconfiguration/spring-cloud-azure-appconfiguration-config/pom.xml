@@ -41,7 +41,7 @@
     <dependency>
         <groupId>org.springframework.cloud</groupId>
         <artifactId>spring-cloud-starter-bootstrap</artifactId>
-        <version>3.0.3</version> <!-- {x-version-update;org.springframework.cloud:spring-cloud-starter-bootstrap;external_dependency} -->
+        <version>4.0.3</version> <!-- {x-version-update;org.springframework.cloud:spring-cloud-starter-bootstrap;external_dependency} -->
     </dependency>
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
