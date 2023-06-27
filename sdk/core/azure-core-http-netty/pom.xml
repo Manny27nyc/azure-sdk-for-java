@@ -52,8 +52,8 @@
       --add-opens com.azure.http.netty/com.azure.core.http.netty.implementation=ALL-UNNAMED
     </javaModulesSurefireArgLine>
     <skipNewCodesnippetTooling>false</skipNewCodesnippetTooling>
-    <javadocDoclet></javadocDoclet>
-    <javadocDocletOptions></javadocDocletOptions>
+    <javadocDoclet/>
+    <javadocDocletOptions/>
   </properties>
 
   <developers>
@@ -78,7 +78,7 @@
     <dependency>
       <groupId>io.netty</groupId>
       <artifactId>netty-handler-proxy</artifactId>
-      <version>4.1.68.Final</version> <!-- {x-version-update;io.netty:netty-handler-proxy;external_dependency} -->
+      <version>4.1.77.Final</version> <!-- {x-version-update;io.netty:netty-handler-proxy;external_dependency} -->
     </dependency>
     <dependency>
       <groupId>io.netty</groupId>
