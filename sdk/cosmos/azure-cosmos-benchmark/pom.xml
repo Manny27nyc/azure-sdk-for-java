@@ -43,7 +43,7 @@ Licensed under the MIT License.
     <dependency>
       <groupId>com.azure</groupId>
       <artifactId>azure-cosmos</artifactId>
-      <version>4.20.0-beta.1</version> <!-- {x-version-update;com.azure:azure-cosmos;current} -->
+      <version>4.52.0</version> <!-- {x-version-update;com.azure:azure-cosmos;current} -->
     </dependency>
 
     <dependency>
@@ -95,7 +95,7 @@ Licensed under the MIT License.
     <dependency>
       <groupId>io.dropwizard.metrics</groupId>
       <artifactId>metrics-graphite</artifactId>
-      <version>4.1.0</version> <!-- {x-version-update;cosmos_io.dropwizard.metrics:metrics-graphite;external_dependency} -->
+      <version>4.2.20</version> <!-- {x-version-update;cosmos_io.dropwizard.metrics:metrics-graphite;external_dependency} -->
     </dependency>
 
     <dependency>
